@@ -6,6 +6,6 @@
 
 <div align="center">
   Hi there 👋
-  I'm a Junior Front End Developer
+  <p>I'm a Junior Front End Developer</p>
 </div>
 
