@@ -5,6 +5,6 @@
 </div>
 
 <div align="center">
-  Hi there! I'm a Junior Front End Developer 
+  Hi there! 
 </div>
 
