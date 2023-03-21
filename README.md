@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript.js**
 
-- 👨‍💻 All of my projects are available at [https://stefandayy-portfolio.vercel.app/](https://stefandayy-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-stefandayy.vercel.app/](https://my-portfolio-stefandayy.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React.js, Redux**
 
