@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan </h1>
 <h3 align="center">A passionate junior developer from Italy</h3>
 
-- 🌱 I’m currently learning **TypeScript.js**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-stefandayy.vercel.app/](https://my-portfolio-stefandayy.vercel.app/)
 
