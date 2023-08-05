@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan </h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Node.js Express**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-stefandayy.vercel.app/](https://my-portfolio-stefandayy.vercel.app/)
 
