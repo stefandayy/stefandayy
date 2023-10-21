@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 - 🌱 I’m currently learning **Node.js Express**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-stefandayy.vercel.app/](https://my-portfolio-stefandayy.vercel.app/)
-
+- 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, React.js,React Native, Redux**
 
 - ⚡ Fun fact **I am a gym rat**
