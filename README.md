@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan </h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate front-end developer from Italy</h3>
 
-- 🌱 I’m currently learning **Node.js Express**
+- 🌱 I’m currently learning **Server-less back-end**
 - 💬 Ask me about **JavaScript, TypeScript, Angular, React.js,React Native, Redux**
 - ⚡ Fun fact **I am a gym rat**
 
