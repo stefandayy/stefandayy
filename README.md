@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stefan </h1>
 <h3 align="center">A passionate front-end developer from Italy</h3>
 
-- 🌱 I’m currently learning **Zustand**
-- 💬 Ask me about **JavaScript, TypeScript, Angular, React.js,React Native, Redux**
+- 🌱 I’m currently learning **Drizzle+Hono**
+- 💬 Ask me about **JavaScript, TypeScript, Angular, React, React Native, Redux, Zustand**
 
 <p align="left">
 </p>
